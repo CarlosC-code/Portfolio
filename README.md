@@ -1,4 +1,4 @@
-Carlos Céspedes — Software Developer
+Carlos Cespedes — Software Developer
 
 Buenas, Soy Carlos Cespedes, estudiante de Tecnología en Desarrollo de Software apasionado por la programación y el desarrollo de soluciones tecnológicas.
 
