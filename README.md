@@ -9,7 +9,7 @@ Mis proyectos
 
 Sistema de votación electrónica desarrollado para gestionar procesos electorales de manera digital.
 
-Tecnologías: C# · .NET · Entity Framework
+Tecnologías: C# · .NET 9 · Entity Framework · HTML & BOOTSTRAP · SQL
 
 🔗 [Ver proyecto en GitHub](https://github.com/CarlosC-code/eVote360)
 
@@ -17,7 +17,7 @@ Tecnologías: C# · .NET · Entity Framework
 
 Proyecto de aplicación orientado a la conexión e interacción entre usuarios.
 
-Tecnologías: C# · .NET
+Tecnologías: C# · .NET 9 · HTML & BOOTSTRAP · Entity Framework · SQL
 
 🔗 [Ver proyecto en GitHub](https://github.com/CarlosC-code/LinkUp)
 
@@ -25,7 +25,7 @@ Tecnologías: C# · .NET
 
 Proyecto enfocado en el análisis y predicción de tendencias relacionadas con activos financieros mediante datos y programación.
 
-Tecnologías: Python · Análisis de datos
+Tecnologías: C# · .NET 9 
 
 🔗 [Ver proyecto en GitHub](https://github.com/CarlosC-code/PredictorDeTendencias)
 
@@ -33,7 +33,7 @@ Tecnologías: Python · Análisis de datos
 
 Aplicación web para la gestión de propiedades inmobiliarias, desarrollada utilizando una arquitectura basada en roles y diferentes funcionalidades para usuarios del sistema.
 
-Tecnologías: C# · .NET 9 · Entity Framework Core · SQL
+Tecnologías: C# · .NET 9 · Entity Framework Core · SQL · HTML & BOOTSTRAP
 
 🔗 [Ver proyecto en GitHub](https://github.com/CarlosC-code/RealEstateApp)
 
