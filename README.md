@@ -61,4 +61,4 @@ Buenas prácticas de programación
 
 Puedes encontrar más información sobre mis proyectos y mi trabajo directamente en mi perfil de GitHub.
 
-🔗 GitHub — CarlosC-code
+🔗 [Mi perfil de GitHub](https://github.com/CarlosC-code)
