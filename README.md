@@ -41,19 +41,20 @@ Tecnologías: C# · .NET 9 · Entity Framework Core · SQL
 
 Actualmente estoy desarrollando conocimientos y experiencia principalmente en:
 
-C#
-.NET / ASP.NET Core
-Entity Framework Core
-SQL
-Git & GitHub
-Docker
-CI/CD
-Testing & QA
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 Actualmente aprendiendo
 Desarrollo de aplicaciones con C# y .NET
 Desarrollo web
-Testing y automatización
+Testing & QA
 DevOps y CI/CD
 Buenas prácticas de programación
 
