@@ -51,14 +51,16 @@ Actualmente estoy desarrollando conocimientos y experiencia principalmente en:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Actualmente aprendiendo
+Actualmente aprendiendo:
+
 Desarrollo de aplicaciones con C# y .NET
 Desarrollo web
 Testing & QA
 DevOps y CI/CD
 Buenas prácticas de programación
 
-📫 Contacto
+📫 Contacto: 
+ccespedes899@gmail.com
 
 Puedes encontrar más información sobre mis proyectos y mi trabajo directamente en mi perfil de GitHub.
 
