@@ -11,7 +11,7 @@ Sistema de votación electrónica desarrollado para gestionar procesos electoral
 
 Tecnologías: C# · .NET · Entity Framework
 
-🔗 Ver proyecto en GitHub
+🔗 [Ver proyecto en GitHub](https://github.com/CarlosC-code/eVote360)
 
 🔗 LinkUp
 
@@ -19,7 +19,7 @@ Proyecto de aplicación orientado a la conexión e interacción entre usuarios.
 
 Tecnologías: C# · .NET
 
-🔗 Ver proyecto en GitHub
+🔗 [Ver proyecto en GitHub](https://github.com/CarlosC-code/LinkUp)
 
 📈 Predictor de Tendencias de Activos
 
@@ -27,7 +27,7 @@ Proyecto enfocado en el análisis y predicción de tendencias relacionadas con a
 
 Tecnologías: Python · Análisis de datos
 
-🔗 Ver proyecto en GitHub
+🔗 [Ver proyecto en GitHub](https://github.com/CarlosC-code/PredictorDeTendencias)
 
 🏠 RealEstateApp
 
@@ -35,7 +35,7 @@ Aplicación web para la gestión de propiedades inmobiliarias, desarrollada util
 
 Tecnologías: C# · .NET 9 · Entity Framework Core · SQL
 
-🔗 Ver proyecto en GitHub
+🔗 [Ver proyecto en GitHub](https://github.com/CarlosC-code/RealEstateApp)
 
 🛠️ Tecnologías
 
