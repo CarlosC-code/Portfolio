@@ -1,6 +1,6 @@
 Carlos Cespedes — Software Developer
 
-Buenas, Soy Carlos Cespedes, estudiante de Tecnología en Desarrollo de Software apasionado por la programación y el desarrollo de soluciones tecnológicas.
+Buenas, Soy Carlos Cespedes, estudiante de termino de Tecnología en Desarrollo de Software apasionado por la programación y el desarrollo de soluciones tecnológicas.
 
 Este repositorio funciona como un punto central para mostrar algunos de los proyectos que he desarrollado durante mi formación y práctica como desarrollador.
 
